@@ -2,10 +2,10 @@
   <img alt="Letmeask" src="https://github.com/guilhermecapitao/letmeask/raw/master/.github/logo.svg" width="160px">
 </p>
 
-<p align="center">
+<!-- p align="center">
   [![Languages](https://img.shields.io/github/languages/count/jemsantos/letmeask?color=%23835AFD&style=flat-square)](#)
   [![Stars](https://img.shields.io/github/stars/jemsantos/letmeask?color=835AFD&style=flat-square)](https://github.com/jemsantos/letmeask/stargazers)
-</p>
+</p -->
 
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
