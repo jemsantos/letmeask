@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <!-- [![Author](https://img.shields.io/badge/author-josepholiveira-835AFD?style=flat-square)](https://github.com/josepholiveira) -->
   [![Languages](https://img.shields.io/github/languages/count/jemsantos/letmeask?color=%23835AFD&style=flat-square)](#)
   [![Stars](https://img.shields.io/github/stars/jemsantos/letmeask?color=835AFD&style=flat-square)](https://github.com/jemsantos/letmeask/stargazers)
 </p>
