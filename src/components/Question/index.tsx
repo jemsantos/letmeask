@@ -23,7 +23,7 @@ export function Question({
           <span>{author.name}</span>
         </div>
         <div>
-          { /* children */}
+          {children}
         </div>
       </footer>
     </div>
