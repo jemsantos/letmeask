@@ -8,6 +8,14 @@
 </p -->
 
 <p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetoOnline">Projeto Online</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   
   <img src="https://img.shields.io/github/forks/jemsantos/letmeask?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
@@ -18,6 +26,9 @@
 <h1 align="center">
     <img alt="Letmeask" title="Letmeask" src="https://github.com/guilhermecapitao/letmeask/raw/master/.github/cover.svg" />
 </h1>
+<p align="center">
+  <img alt="letmeask" src="https://github.com/carolferreiradev/letmeask/blob/master/img/bg-project.png" width="100%">
+</p>
 
 <br>
 
@@ -55,6 +66,14 @@ You can view the project layout through the links below:
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
+## 💻 Projeto
+
+Letmeask is a platform that has the purpose of solving questions of accumulation of questions during a live, broadcast, etc. With it you can create private rooms where only those who have the room ID can access. Participants can ask questions (provided they are logged in with Google) and vote on them. The creator of the room, on the other hand, can mark the questions as answered, highlight them, in addition to other features.
+
+## 🔎 Projeto Online
+
+You can access this project through [this link](https://letmeask-ecdf3.web.app/). 
 
 ## 📝 License
 
