@@ -17,6 +17,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/static/v1?label=NLW&message=Together&color=8257E5&labelColor=000000" alt="NLW Together" />
+
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
 
   <img src="https://img.shields.io/github/forks/jemsantos/letmeask?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
